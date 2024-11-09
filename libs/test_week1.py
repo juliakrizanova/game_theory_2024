@@ -1,4 +1,5 @@
 import libs.week1 as week1
+# export PYTHONPATH=$PYTHONPATH:/home/juliakrizanova/Documents/mgr_mff_1/game_theory_2024/libs
 import numpy as np
 import pytest
 
